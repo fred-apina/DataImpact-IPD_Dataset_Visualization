@@ -57,7 +57,7 @@ plt.title('Top ten diseases in 2015 for IPD under 5')
 plt.ylabel('Number of IPD')
 plt.show()
 
-Regions with large number of incidence
+# Regions with large number of incidence
 ax = plt.subplot(221)
 ax1 = plt.subplot(222)
 ax2 = plt.subplot(223)
@@ -78,7 +78,7 @@ ax3.set_ylabel('Number of IPD')
 plt.tight_layout()
 plt.show()
 
-Regions with low number of incidence
+# Regions with low number of incidence
 ax = plt.subplot(221)
 ax1 = plt.subplot(222)
 ax2 = plt.subplot(223)
