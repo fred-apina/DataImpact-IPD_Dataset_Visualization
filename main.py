@@ -23,6 +23,7 @@ if data_2015.isnull().values.any():
 
 print(data_2012.tail(1))
 
+
 # Analysing first ten diseases with large number of incidence
 ax = plt.subplot(221)
 ax1 = plt.subplot(222)
